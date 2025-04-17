@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+routes/__pycache__/
+utils/__pycache__/
+services/__pycache__/
+tests/__pycache__/
+
+.pytest_cache/
+.vscode/
